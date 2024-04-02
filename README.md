@@ -1,0 +1,8 @@
+# Money you need
+
+This repo will show how much INR you can save to help you retire safely.
+
+- Initial savings 60L INR
+- Monthly withdrawal 50k
+- Annual interest getting in range of 10 - 15 %
+  
