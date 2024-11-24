@@ -10,3 +10,4 @@ Assumptions:
 - Monthly withdrawal 50k
 - Annual interest getting in range of 10 - 15 %
   
+Update 2 SWP
