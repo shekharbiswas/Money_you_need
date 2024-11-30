@@ -2,7 +2,7 @@
 
 **Believing Banks or Youtube Advisors ?**
 
-This repo will show how much INR you can save to help you retire safely.
+This repo will show how much you can save to help you retire safely.
 
 Assumptions: 
 
